@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Kepler-69c
+
+---
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <!--- 👋 Hi, I’m @Kepler-69c
 - 👀 I’m interested in ...
