@@ -1,7 +1,7 @@
 ### Hi, I'm Kepler-69c
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kepler-69c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kepler-69c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
