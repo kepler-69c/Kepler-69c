@@ -1,9 +1,12 @@
 ### Hi, I'm Kepler-69c
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ---
+![Metrics](/github-metrics.svg)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kepler-69c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
 <!--- 👋 Hi, I’m @Kepler-69c
 - 👀 I’m interested in ...
